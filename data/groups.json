@@ -1,0 +1,512 @@
+[
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-1",
+    "title": "r/SEO Search Engine Optimization",
+    "platform": "Reddit",
+    "category": "SEO & GEO",
+    "memberCount": "270,000+ members",
+    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "geo",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-2",
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "680,000+ members",
+    "description": "Brand positioning, paid acquisition, funnel attribution, CRO testing, and content marketing case studies.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "growth",
+      "strategy",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-3",
+    "title": "r/startups Founders & Builders",
+    "platform": "Reddit",
+    "category": "Startups & SaaS",
+    "memberCount": "1,600,000+ members",
+    "description": "Discussions on product-market fit, customer discovery interviews, investor pitch decks, and bootstrapping.",
+    "joinUrl": "https://www.reddit.com/r/startups/",
+    "tags": [
+      "startups",
+      "saas",
+      "founders",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-4",
+    "title": "r/SaaS Software as a Service",
+    "platform": "Reddit",
+    "category": "SaaS Growth",
+    "memberCount": "160,000+ members",
+    "description": "B2B SaaS pricing models, churn reduction, outbound cold email frameworks, and MRR growth teardowns.",
+    "joinUrl": "https://www.reddit.com/r/SaaS/",
+    "tags": [
+      "saas",
+      "b2b",
+      "mrr",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-discord-5",
+    "title": "SEO Professionals Discord",
+    "platform": "Discord",
+    "category": "SEO & Search",
+    "memberCount": "28,000+ members",
+    "description": "Real-time discussions between agency operators and enterprise SEO consultants on search visibility.",
+    "joinUrl": "https://discord.gg/seo",
+    "tags": [
+      "seo",
+      "discord",
+      "search",
+      "analytics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-telegram-6",
+    "title": "Global Startups Hub Channel",
+    "platform": "Telegram",
+    "category": "Startups & Venture",
+    "memberCount": "78,000+ members",
+    "description": "Updates on venture capital fundings, Product Hunt launches, and SaaS acquisition multiples.",
+    "joinUrl": "https://t.me/startup_hub",
+    "tags": [
+      "startups",
+      "telegram",
+      "saas",
+      "venture"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-7",
+    "title": "Product Hunt Community",
+    "platform": "Forum",
+    "category": "Product Launches",
+    "memberCount": "1,000,000+ members",
+    "description": "The best place to discover innovative tech products daily, connect with makers, and collect user feedback.",
+    "joinUrl": "https://www.producthunt.com",
+    "tags": [
+      "producthunt",
+      "makers",
+      "launches",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-8",
+    "title": "Indie Hackers Community",
+    "platform": "Forum",
+    "category": "Bootstrapping",
+    "memberCount": "250,000+ members",
+    "description": "Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.",
+    "joinUrl": "https://www.indiehackers.com",
+    "tags": [
+      "indiehackers",
+      "bootstrapping",
+      "forum",
+      "saas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-9",
+    "title": "r/deals Verified Price Drops",
+    "platform": "Reddit",
+    "category": "Deals & Discounts",
+    "memberCount": "420,000+ members",
+    "description": "Curated verified discounts, price error alerts, electronics clearances, and online promotional coupon codes.",
+    "joinUrl": "https://www.reddit.com/r/deals/",
+    "tags": [
+      "deals",
+      "discounts",
+      "savings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-10",
+    "title": "r/Frugal Financial Optimization",
+    "platform": "Reddit",
+    "category": "Smart Savings",
+    "memberCount": "3,100,000+ members",
+    "description": "Community dedicated to living well on less, waste reduction, meal planning, and finding durable value.",
+    "joinUrl": "https://www.reddit.com/r/Frugal/",
+    "tags": [
+      "frugal",
+      "savings",
+      "value",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-11",
+    "title": "r/fulfillmentbyamazon Sellers",
+    "platform": "Reddit",
+    "category": "Amazon FBA",
+    "memberCount": "130,000+ members",
+    "description": "Advanced Amazon seller discussions covering private labeling, PPC bids, logistics, and Amazon brand registry.",
+    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
+    "tags": [
+      "amazon-fba",
+      "ecommerce",
+      "selling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-12",
+    "title": "r/shopify Store Owners",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "220,000+ members",
+    "description": "Community for Shopify entrepreneurs, store design, theme optimization, checkout conversions, and app integrations.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "tags": [
+      "shopify",
+      "ecommerce",
+      "marketing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-discord-13",
+    "title": "E-Commerce Sellers Discord",
+    "platform": "Discord",
+    "category": "E-Commerce Tech",
+    "memberCount": "35,000+ members",
+    "description": "Discord server for brand owners scaling DTC stores, TikTok shop integrations, and supply chain logistics.",
+    "joinUrl": "https://discord.gg/ecommerce",
+    "tags": [
+      "ecommerce",
+      "dtc",
+      "discord",
+      "shopify"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-telegram-14",
+    "title": "Daily Deals & Glitches Telegram",
+    "platform": "Telegram",
+    "category": "Deals & Coupons",
+    "memberCount": "92,000+ members",
+    "description": "Instant notifications for Amazon price errors, promo codes, clearance sales, and limited-time discounts.",
+    "joinUrl": "https://t.me/dealnews",
+    "tags": [
+      "deals",
+      "telegram",
+      "coupons",
+      "clearance"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-15",
+    "title": "Shopify Community Forum",
+    "platform": "Forum",
+    "category": "E-Commerce",
+    "memberCount": "900,000+ members",
+    "description": "Official forum for Liquid template coding, Storefront API troubleshooting, and business scaling guidance.",
+    "joinUrl": "https://community.shopify.com",
+    "tags": [
+      "shopify",
+      "forum",
+      "liquid",
+      "dtc"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-16",
+    "title": "Slickdeals Community Forum",
+    "platform": "Forum",
+    "category": "Deals & Discounts",
+    "memberCount": "12,000,000+ members",
+    "description": "The largest social deal-sharing site where millions of members vote on and verify bargains and coupon codes.",
+    "joinUrl": "https://slickdeals.net/forums/",
+    "tags": [
+      "slickdeals",
+      "forum",
+      "discounts",
+      "deals"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-17",
+    "title": "r/ObsidianMD Personal Knowledge",
+    "platform": "Reddit",
+    "category": "Knowledge Management",
+    "memberCount": "190,000+ members",
+    "description": "Discussions on Markdown vaults, Zettelkasten methods, Dataview queries, graph theory, and local-first notes.",
+    "joinUrl": "https://www.reddit.com/r/ObsidianMD/",
+    "tags": [
+      "obsidian",
+      "pkm",
+      "markdown",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-18",
+    "title": "r/Notion Workspace Architects",
+    "platform": "Reddit",
+    "category": "Productivity Systems",
+    "memberCount": "340,000+ members",
+    "description": "Template sharing, formula 2.0 tutorials, GTD dashboards, and Notion database relation architecture.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
+    "tags": [
+      "notion",
+      "templates",
+      "gtd",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-19",
+    "title": "r/productivity Systems & Habits",
+    "platform": "Reddit",
+    "category": "Personal Productivity",
+    "memberCount": "2,400,000+ members",
+    "description": "Time blocking techniques, deep work habits, morning routines, and digital workflow optimization.",
+    "joinUrl": "https://www.reddit.com/r/productivity/",
+    "tags": [
+      "productivity",
+      "habits",
+      "time-management",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-20",
+    "title": "r/nocode Visual Development",
+    "platform": "Reddit",
+    "category": "No-Code & Automation",
+    "memberCount": "78,000+ members",
+    "description": "Building software, internal tools, and SaaS products with Webflow, Bubble, Zapier, and Make without code.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
+    "tags": [
+      "nocode",
+      "bubble",
+      "webflow",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-discord-21",
+    "title": "Obsidian Members Discord",
+    "platform": "Discord",
+    "category": "Knowledge Management",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for plugin developers, theme creators, and second brain builders.",
+    "joinUrl": "https://discord.gg/obsidian",
+    "tags": [
+      "obsidian",
+      "discord",
+      "plugins",
+      "notes"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-telegram-22",
+    "title": "Daily Productivity & Automation Hacks",
+    "platform": "Telegram",
+    "category": "Automation",
+    "memberCount": "49,000+ members",
+    "description": "Workflow automation blueprints, API webhooks, Zapier templates, and focus routines.",
+    "joinUrl": "https://t.me/productivity_hacks",
+    "tags": [
+      "productivity",
+      "telegram",
+      "automation",
+      "zapier"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-23",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Knowledge Management",
+    "memberCount": "110,000+ members",
+    "description": "Feature requests, plugin documentation, CSS snippet sharing, and academic knowledge management workflows.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "forum",
+      "knowledge",
+      "plugins"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-24",
+    "title": "r/technology World News",
+    "platform": "Reddit",
+    "category": "Tech News",
+    "memberCount": "14,000,000+ members",
+    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/technology/",
+    "tags": [
+      "technology",
+      "news",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-25",
+    "title": "r/science Academic Research",
+    "platform": "Reddit",
+    "category": "Science & Innovation",
+    "memberCount": "32,000,000+ members",
+    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
+    "joinUrl": "https://www.reddit.com/r/science/",
+    "tags": [
+      "science",
+      "research",
+      "innovation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-26",
+    "title": "r/linux Open Source OS",
+    "platform": "Reddit",
+    "category": "Linux & OS",
+    "memberCount": "920,000+ members",
+    "description": "All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "kernel",
+      "open-source",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-discord-27",
+    "title": "Technology & Science Discord",
+    "platform": "Discord",
+    "category": "Tech Discussion",
+    "memberCount": "90,000+ members",
+    "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
+    "joinUrl": "https://discord.gg/technology",
+    "tags": [
+      "technology",
+      "discord",
+      "science",
+      "discussion"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-telegram-28",
+    "title": "TechCrunch Official Channel",
+    "platform": "Telegram",
+    "category": "Tech News",
+    "memberCount": "110,000+ members",
+    "description": "Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "techcrunch",
+      "telegram",
+      "news",
+      "startups"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-forum-29",
+    "title": "Hacker News Community",
+    "platform": "Forum",
+    "category": "Computer Science & Startups",
+    "memberCount": "5,000,000+ members",
+    "description": "Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "hackernews",
+      "yc",
+      "startups",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "seo-masters-programmatic-growth-hub-reddit-30",
+    "title": "r/SEO Search Engine Optimization",
+    "platform": "Reddit",
+    "category": "SEO & GEO",
+    "memberCount": "270,000+ members",
+    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "geo",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
