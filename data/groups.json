@@ -272,12 +272,12 @@
     "featured": false
   },
   {
-    "title": "TechSEO Community Discord",
+    "title": "Agency & SEO Operations Discord",
     "platform": "Discord",
     "category": "Technical Architecture",
     "memberCount": "32,000+ members",
     "description": "Server for technical SEO specialists discussing robots.txt, canonicalization, hreflang tags, and Edge SEO implementations.",
-    "joinUrl": "https://discord.gg/techseo",
+    "joinUrl": "https://discord.gg/agency",
     "tags": [
       "techseo",
       "discord",
@@ -289,12 +289,12 @@
     "featured": false
   },
   {
-    "title": "Digital Marketing Community Discord",
+    "title": "Business & Growth Marketing Discord",
     "platform": "Discord",
     "category": "Search Marketing",
     "memberCount": "45,000+ members",
     "description": "Collaborative server covering local SEO, international search, Google Business Profiles, and schema markup.",
-    "joinUrl": "https://discord.gg/marketing",
+    "joinUrl": "https://discord.gg/business",
     "tags": [
       "marketing",
       "discord",
@@ -306,12 +306,12 @@
     "featured": false
   },
   {
-    "title": "Web Development Discord Guild",
+    "title": "The Coding Den WebDev Discord",
     "platform": "Discord",
     "category": "Developer Guild",
     "memberCount": "110,000+ members",
     "description": "Front-end and full-stack developers discussing fast modern web architecture (Next.js, Astro, Hugo) for SEO.",
-    "joinUrl": "https://discord.gg/webdev",
+    "joinUrl": "https://discord.gg/code",
     "tags": [
       "webdev",
       "discord",
