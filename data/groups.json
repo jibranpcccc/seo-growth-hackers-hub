@@ -1,5 +1,24 @@
 [
   {
+    "id": "seo-growth-hackers-hub-reddit-20260915-1",
+    "title": "r/GoogleAnalytics GA4 Tracking",
+    "platform": "Reddit",
+    "category": "Google Analytics",
+    "memberCount": "42,000+ members",
+    "description": "Custom event definitions, user property tracking, measurement protocol parameters, and Looker Studio reports.",
+    "joinUrl": "https://www.reddit.com/r/GoogleAnalytics/",
+    "tags": [
+      "ga4",
+      "tracking",
+      "measurement",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "seo-growth-hackers-hub-reddit-20260914-1",
     "title": "r/copywriting Direct Response",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
