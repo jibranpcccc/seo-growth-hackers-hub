@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-discord-20260920-1",
+    "title": "Marketing Professionals Discord",
+    "platform": "Discord",
+    "category": "Brand & Performance",
+    "memberCount": "58,000+ members",
+    "description": "Channels dedicated to SEO, Google Ads, Meta scaling, creative briefs, and CRO experimentation.",
+    "joinUrl": "https://discord.gg/marketing",
+    "tags": [
+      "marketing",
+      "advertising",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "seo-growth-hackers-hub-discord-20260919-1",
     "title": "Growth Hackers World Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
