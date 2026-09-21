@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-discord-20260921-1",
+    "title": "Affiliate & Media Buying Discord",
+    "platform": "Discord",
+    "category": "Paid Media & RevShare",
+    "memberCount": "32,000+ members",
+    "description": "Native advertising, push traffic, cloaking-free landing pages, and CPA network discussions.",
+    "joinUrl": "https://discord.gg/affiliate",
+    "tags": [
+      "affiliate",
+      "media-buying",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-21"
+  },
+  {
     "id": "seo-growth-hackers-hub-discord-20260920-1",
     "title": "Marketing Professionals Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-20"
   },
   {
