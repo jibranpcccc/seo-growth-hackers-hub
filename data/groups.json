@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-discord-20260922-1",
+    "title": "Digital Marketers Guild Discord",
+    "platform": "Discord",
+    "category": "Digital Agency",
+    "memberCount": "44,000+ members",
+    "description": "Agency owners discussing client retention, reporting templates, and omnichannel campaign structures.",
+    "joinUrl": "https://discord.gg/digitalmarketing",
+    "tags": [
+      "agency",
+      "marketing",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "seo-growth-hackers-hub-discord-20260921-1",
     "title": "Affiliate & Media Buying Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
