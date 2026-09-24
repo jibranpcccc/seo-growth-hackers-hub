@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-telegram-20260924-1",
+    "title": "Growth Hacking Telegram Hub",
+    "platform": "Telegram",
+    "category": "Growth Loops",
+    "memberCount": "38,000+ members",
+    "description": "Daily case studies on SaaS onboarding funnels, referral program design, and virality coefficients.",
+    "joinUrl": "https://t.me/growthhacking",
+    "tags": [
+      "growth",
+      "saas",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "seo-growth-hackers-hub-discord-20260923-1",
     "title": "Startups & Growth Loops Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
