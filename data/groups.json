@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-telegram-20260925-1",
+    "title": "Digital Marketing Insights Telegram",
+    "platform": "Telegram",
+    "category": "Marketing News",
+    "memberCount": "52,000+ members",
+    "description": "Real-time updates on ad policy shifts, algorithm updates, and emerging advertising channels.",
+    "joinUrl": "https://t.me/digitalmarketing",
+    "tags": [
+      "marketing",
+      "news",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "seo-growth-hackers-hub-telegram-20260924-1",
     "title": "Growth Hacking Telegram Hub",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
