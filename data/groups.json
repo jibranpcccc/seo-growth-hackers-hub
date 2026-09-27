@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-telegram-20260927-1",
+    "title": "SEO Signals Broadcast Telegram",
+    "platform": "Telegram",
+    "category": "Search Updates",
+    "memberCount": "46,000+ members",
+    "description": "Alerts on Google search quality rater guidelines updates and confirmed search ranking adjustments.",
+    "joinUrl": "https://t.me/seo",
+    "tags": [
+      "seo",
+      "google",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "seo-growth-hackers-hub-telegram-20260925-1",
     "title": "Digital Marketing Insights Telegram",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
