@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-forum-20261001-1",
+    "title": "Moz Q&A Search Community",
+    "platform": "Forum",
+    "category": "SEO Best Practices",
+    "memberCount": "140,000+ members",
+    "description": "Authoritative search marketing advice on canonicalization, link equity, and algorithmic penalties.",
+    "joinUrl": "https://moz.com/community/q",
+    "tags": [
+      "moz",
+      "seo",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-01"
+  },
+  {
     "id": "seo-growth-hackers-hub-forum-20260930-1",
     "title": "GrowthHackers Community Forum",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-30"
   },
   {
