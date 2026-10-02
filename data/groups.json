@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-forum-20261002-1",
+    "title": "HubSpot Inbound Community",
+    "platform": "Forum",
+    "category": "Inbound & CRM",
+    "memberCount": "220,000+ members",
+    "description": "Marketing automation workflows, lead scoring criteria, and customer journey orchestration.",
+    "joinUrl": "https://community.hubspot.com",
+    "tags": [
+      "hubspot",
+      "inbound",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "seo-growth-hackers-hub-forum-20261001-1",
     "title": "Moz Q&A Search Community",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {
