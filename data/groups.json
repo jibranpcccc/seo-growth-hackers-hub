@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-forum-20261003-1",
+    "title": "BlackHatWorld Digital Marketing",
+    "platform": "Forum",
+    "category": "Aggressive Marketing",
+    "memberCount": "850,000+ members",
+    "description": "High-volume traffic generation, scraping methodologies, proxy setups, and social media automation.",
+    "joinUrl": "https://www.blackhatworld.com",
+    "tags": [
+      "traffic",
+      "automation",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-03"
+  },
+  {
     "id": "seo-growth-hackers-hub-forum-20261002-1",
     "title": "HubSpot Inbound Community",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-02"
   },
   {
