@@ -1,5 +1,23 @@
 [
   {
+    "id": "seo-growth-hackers-hub-forum-20261005-1",
+    "title": "Product Hunt Discussion Guild",
+    "platform": "Forum",
+    "category": "Product Launches",
+    "memberCount": "650,000+ members",
+    "description": "Crowdsourced advice on launch-day promotion, influencer outreach, and press syndicate coverage.",
+    "joinUrl": "https://www.producthunt.com/discussions",
+    "tags": [
+      "producthunt",
+      "launches",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-05"
+  },
+  {
     "id": "seo-growth-hackers-hub-forum-20261003-1",
     "title": "BlackHatWorld Digital Marketing",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-03"
   },
   {
