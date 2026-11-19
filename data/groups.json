@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/BigSEO Advanced Search Strategy",
+    "platform": "Reddit",
+    "category": "Enterprise SEO",
+    "memberCount": "125,000+ members",
+    "description": "Advanced community for enterprise SEOs, agency directors, and technical consultants analyzing complex SERP architecture.",
+    "joinUrl": "https://www.reddit.com/r/bigseo/",
+    "tags": [
+      "bigseo",
+      "enterprise",
+      "technical",
+      "strategy"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-2",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "title": "r/SEO Search Engine Optimization",
     "platform": "Reddit",
     "category": "SEO General",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-1",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -953,24 +972,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/BigSEO Advanced Search Strategy",
-    "platform": "Reddit",
-    "category": "Enterprise SEO",
-    "memberCount": "125,000+ members",
-    "description": "Advanced community for enterprise SEOs, agency directors, and technical consultants analyzing complex SERP architecture.",
-    "joinUrl": "https://www.reddit.com/r/bigseo/",
-    "tags": [
-      "bigseo",
-      "enterprise",
-      "technical",
-      "strategy"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-2",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/TechSEO Technical Search Specialists",
