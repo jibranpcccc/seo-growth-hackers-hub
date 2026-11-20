@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/TechSEO Technical Search Specialists",
+    "platform": "Reddit",
+    "category": "Technical SEO",
+    "memberCount": "45,000+ members",
+    "description": "Deep-dive discussions on site architecture, crawl budgets, log file analysis, JavaScript rendering, and Core Web Vitals.",
+    "joinUrl": "https://www.reddit.com/r/TechSEO/",
+    "tags": [
+      "techseo",
+      "crawlability",
+      "corewebvitals",
+      "rendering"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/BigSEO Advanced Search Strategy",
     "platform": "Reddit",
     "category": "Enterprise SEO",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -972,24 +991,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/TechSEO Technical Search Specialists",
-    "platform": "Reddit",
-    "category": "Technical SEO",
-    "memberCount": "45,000+ members",
-    "description": "Deep-dive discussions on site architecture, crawl budgets, log file analysis, JavaScript rendering, and Core Web Vitals.",
-    "joinUrl": "https://www.reddit.com/r/TechSEO/",
-    "tags": [
-      "techseo",
-      "crawlability",
-      "corewebvitals",
-      "rendering"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/Linkbuilding Authority Acquisition",
