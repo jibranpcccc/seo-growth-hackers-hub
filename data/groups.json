@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/Linkbuilding Authority Acquisition",
+    "platform": "Reddit",
+    "category": "Link Building",
+    "memberCount": "38,000+ members",
+    "description": "High-authority outreach tactics, digital PR campaigns, broken link building, guest posting, and backlink profile audits.",
+    "joinUrl": "https://www.reddit.com/r/linkbuilding/",
+    "tags": [
+      "linkbuilding",
+      "backlinks",
+      "digitalpr",
+      "outreach"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/TechSEO Technical Search Specialists",
     "platform": "Reddit",
     "category": "Technical SEO",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -991,24 +1010,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/Linkbuilding Authority Acquisition",
-    "platform": "Reddit",
-    "category": "Link Building",
-    "memberCount": "38,000+ members",
-    "description": "High-authority outreach tactics, digital PR campaigns, broken link building, guest posting, and backlink profile audits.",
-    "joinUrl": "https://www.reddit.com/r/linkbuilding/",
-    "tags": [
-      "linkbuilding",
-      "backlinks",
-      "digitalpr",
-      "outreach"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/content_marketing Editorial Growth",
