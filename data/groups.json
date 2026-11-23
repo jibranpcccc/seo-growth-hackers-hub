@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/digitalmarketing Full-Funnel Search",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "320,000+ members",
+    "description": "Aligning organic search visibility with paid search, social distribution, email capture, and CRO.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "digitalmarketing",
+      "funnels",
+      "cro",
+      "search"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-6",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "title": "r/content_marketing Editorial Growth",
     "platform": "Reddit",
     "category": "Content Strategy",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-5",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -1029,24 +1048,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/digitalmarketing Full-Funnel Search",
-    "platform": "Reddit",
-    "category": "Digital Marketing",
-    "memberCount": "320,000+ members",
-    "description": "Aligning organic search visibility with paid search, social distribution, email capture, and CRO.",
-    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
-    "tags": [
-      "digitalmarketing",
-      "funnels",
-      "cro",
-      "search"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-6",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/marketing Growth & Positioning",
