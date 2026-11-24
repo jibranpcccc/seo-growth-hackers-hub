@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/marketing Growth & Positioning",
+    "platform": "Reddit",
+    "category": "Brand Marketing",
+    "memberCount": "850,000+ members",
+    "description": "Brand building, authority signals, audience research, and generative engine optimization (GEO).",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "branding",
+      "geo",
+      "authority"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/digitalmarketing Full-Funnel Search",
     "platform": "Reddit",
     "category": "Digital Marketing",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -1048,24 +1067,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/marketing Growth & Positioning",
-    "platform": "Reddit",
-    "category": "Brand Marketing",
-    "memberCount": "850,000+ members",
-    "description": "Brand building, authority signals, audience research, and generative engine optimization (GEO).",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "branding",
-      "geo",
-      "authority"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/webdev Semantic Architecture",
