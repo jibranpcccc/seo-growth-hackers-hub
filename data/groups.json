@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/webdev Semantic Architecture",
+    "platform": "Reddit",
+    "category": "Web Standards",
+    "memberCount": "2,400,000+ members",
+    "description": "Clean HTML5 semantics, schema structured data implementation, SSR rendering, and fast loading performance.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "schema",
+      "ssr",
+      "performance"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/marketing Growth & Positioning",
     "platform": "Reddit",
     "category": "Brand Marketing",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -1067,24 +1086,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/webdev Semantic Architecture",
-    "platform": "Reddit",
-    "category": "Web Standards",
-    "memberCount": "2,400,000+ members",
-    "description": "Clean HTML5 semantics, schema structured data implementation, SSR rendering, and fast loading performance.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
-    "tags": [
-      "webdev",
-      "schema",
-      "ssr",
-      "performance"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/WordPress CMS Architecture",
