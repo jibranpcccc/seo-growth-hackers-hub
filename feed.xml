@@ -4,10 +4,17 @@
     <title>SEO Masters &amp; Programmatic Growth Hub</title>
     <link>https://seo-growth-hackers-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:03 GMT</lastBuildDate>
     <atom:link href="https://seo-growth-hackers-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/WordPress CMS Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/WordPress/</link>
+      <guid isPermaLink="false">https://seo-growth-hackers-hub.netlify.app/#seo-growth-hackers-hub-reddit-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:03 GMT</pubDate>
+      <description>Newly verified community added to SEO Masters &amp; Programmatic Growth Hub: Optimizing WordPress sites for search engines, canonical tag governance, caching plugins, and sitemap generation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/webdev Semantic Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/webdev/</link>
       <guid isPermaLink="false">https://seo-growth-hackers-hub.netlify.app/#seo-growth-hackers-hub-reddit-8-2026-11-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://seo-growth-hackers-hub.netlify.app/#seo-growth-hackers-hub-discord-20261027-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:00:57 GMT</pubDate>
       <description>Newly verified community added to SEO Masters &amp; Programmatic Growth Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/golang/</link>
-      <guid isPermaLink="false">https://seo-growth-hackers-hub.netlify.app/#seo-growth-hackers-hub-reddit-20261026-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:44:58 GMT</pubDate>
-      <description>Newly verified community added to SEO Masters &amp; Programmatic Growth Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
     </item>
   </channel>
 </rss>

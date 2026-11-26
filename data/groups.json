@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/WordPress CMS Architecture",
+    "platform": "Reddit",
+    "category": "CMS Platforms",
+    "memberCount": "210,000+ members",
+    "description": "Optimizing WordPress sites for search engines, canonical tag governance, caching plugins, and sitemap generation.",
+    "joinUrl": "https://www.reddit.com/r/WordPress/",
+    "tags": [
+      "wordpress",
+      "cms",
+      "caching",
+      "sitemaps"
+    ],
+    "id": "seo-growth-hackers-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/webdev Semantic Architecture",
     "platform": "Reddit",
     "category": "Web Standards",
@@ -15,7 +34,7 @@
     "id": "seo-growth-hackers-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -1086,24 +1105,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/WordPress CMS Architecture",
-    "platform": "Reddit",
-    "category": "CMS Platforms",
-    "memberCount": "210,000+ members",
-    "description": "Optimizing WordPress sites for search engines, canonical tag governance, caching plugins, and sitemap generation.",
-    "joinUrl": "https://www.reddit.com/r/WordPress/",
-    "tags": [
-      "wordpress",
-      "cms",
-      "caching",
-      "sitemaps"
-    ],
-    "id": "seo-growth-hackers-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Blogging Authority Niche Publishing",
